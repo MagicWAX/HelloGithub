@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Microsoft JhengHei", system-ui, sans-serif;
+  line-height: 1.7;
+  color: #222;
+  background: #f6f8fa;
+}
+
+header {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: #fff;
+  background: linear-gradient(135deg, #4f46e5, #06b6d4);
+}
+
+main {
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section {
+  background: #fff;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+a {
+  color: #4f46e5;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #666;
+}
